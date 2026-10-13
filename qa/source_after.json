@@ -1,0 +1,17 @@
+{
+  "F": {
+    "head": "b20d483e030fef43c57aada1b74eaab7d7b552bb",
+    "tracked_status": "A  docs/android_activity_reference_audit.csv\nA  docs/android_native_component_reference_index.md\nA  docs/android_native_screen_reference_index.md\nA  docs/build_generation.md\nA  docs/flow_mapping_by_role.md\nA  docs/flow_mapping_final_review.md\nA  docs/flutter_entry_point_migration_plan.md\nA  docs/flutter_flow_usage_audit.md\nA  docs/flutter_inbound_route_adapters.csv\nA  docs/flutter_incoming_flow_index.md\nA  docs/flutter_native_channel_audit.csv\nA  docs/flutter_native_channel_call_sites.csv\nA  docs/flutter_screen_reference_index.md\nA  docs/flutter_unreachable_ui_audit.csv\nA  docs/ios_legacy_channel_audit.csv\nA  docs/ios_native_link_reference_index.md\nA  docs/migration_phase_2_handover.md\nA  docs/migration_phase_2_operational_handover.md\n",
+    "tracked_diff_sha256": "61c5a96a410d785ae5370fb391b2cdd3d66768a2f771fef6489b741ca9b759aa"
+  },
+  "A": {
+    "head": "d4e948cc582b68e845f3cc68df1b5d50d48079ba",
+    "tracked_status": "",
+    "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "I": {
+    "head": "d8e903540c9d57a337ee4d6eaa799f2c0ee44be9",
+    "tracked_status": "",
+    "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

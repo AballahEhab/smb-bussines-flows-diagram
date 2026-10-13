@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "checks": {
+    "flutter_login_root": true,
+    "obsolete_native_login_absent": true,
+    "all_three_ui_platforms": true,
+    "sdk_services_are_distinct": true,
+    "old_and_new_pay_layouts": true,
+    "legacy_dashboard_complete_predicate": true,
+    "runtime_registration_condition": true,
+    "guest_shop_configuration": true,
+    "quick_access_and_prepaid": true,
+    "backend_menu_gates": true,
+    "role_based_manage_alternatives": true,
+    "bfm_product_branch": true,
+    "device_native_flutter_round_trip": true,
+    "notification_alternate_entries": true,
+    "url_alternate_entries": true,
+    "explicit_unresolved_destinations": true,
+    "inventory_fully_classified": true
+  },
+  "largest_journey_nodes": 36
+}

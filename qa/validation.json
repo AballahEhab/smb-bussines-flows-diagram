@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "counts": {
+    "journeys": 72,
+    "nodes": 665,
+    "edges": 900,
+    "source_locations": 1533,
+    "inventory_candidates": 1701
+  },
+  "classification_counts": {
+    "unresolved": 795,
+    "obsolete": 3,
+    "mapped": 589,
+    "in-page-content": 16,
+    "registered-only": 256,
+    "unreachable-candidate": 41,
+    "non-ui": 1
+  }
+}
